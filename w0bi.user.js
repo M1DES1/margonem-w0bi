@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         w0bi
 // @namespace    http://tampermonkey.net/
-// @version      1.0Beta
+// @version      1.1Beta
 // @description   .
 // @author       w0bise
 // @match        https://*.margonem.pl/
